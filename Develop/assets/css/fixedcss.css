@@ -15,11 +15,13 @@ h1 {
 
 h1 span {
     color: #d9dcd6;
-    ;
 }
 
 h2 {
     font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
 }
 
 a {
@@ -52,3 +54,22 @@ header img {
     object-fit: cover;
 }
 
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 50px;
+    height: 200px;
+    background-color: #0072bb;
+    width: 75%;
+}
+
+section img {
+    max-height: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+#right{
+    float: right;
+}

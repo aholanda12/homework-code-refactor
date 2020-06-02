@@ -19,7 +19,6 @@ h1 span {
 
 h2 {
     font-size: 36px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
 }
@@ -84,11 +83,11 @@ section img {
     margin-right: 20px;
 }
 
-#right{
+.right{
     float: right;
 }
 
-#benefits-box{
+.benefits-box{
     margin-right: 20px;
     padding: 20px;
     float: right;
@@ -98,12 +97,12 @@ section img {
     position: absolute; 
 }
 
-#benefits-text{
+.benefits-text{
     margin-top: 160px;
     margin-bottom: 50px;
 }
 
-#symbol {
+.symbol {
     clear: both;
     display: block;
     position: relative;
